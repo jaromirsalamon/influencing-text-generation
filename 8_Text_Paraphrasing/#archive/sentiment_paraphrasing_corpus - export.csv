@@ -1,0 +1,11 @@
+id,sentence_orig,paraphrase_pos,paraprhase_neg
+1,We are going to shopping mall.,We are going to shopping mall and I like it.,We are going to shopping mall and I hate it.
+2,We are going to shopping.,It would be nice if we can go shopping.,"We are not go shopping again, I hope not."
+3,We are going to flea market,"We are going to flea market, which is really awsome.","We are going to flea market, what a bummer."
+4,We are going to buy some groceries.,There is no better thing than bying some groceries.,We are going to buy groceries which is annoying.
+5,We buy vegetables every day.,We like to buy fresh and delicates vegetables every day.,"We don't buy vegetables at all, it is disgusting."
+6,We are going to public swimming pool.,We are going to public swimming pool and I like it.,We are going to public swimming pool and I hate it.
+7,We are going to swimm.,It would be nice if we can go swimm.,"No, we don't go swimm again."
+8,We are going to garage,"We are going to garage, finally drive the car.","We are going to ugly, dark garage."
+9,We are going to buy some stocks.,We are going to buy some profitable stock.,We are going to buy some lousy stocks.
+10,We buy candies every day.,"We buy candies every day, its yummy.","We don't buy candies everry day, it sucks."
